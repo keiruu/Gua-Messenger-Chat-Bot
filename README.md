@@ -10,4 +10,5 @@ This was created using:
 - pymessenger
 - flask
 - gunicorn
-and deployed to [Heroku](https://www.heroku.com).
+
+and was deployed to [Heroku](https://www.heroku.com).
