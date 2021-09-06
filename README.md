@@ -1,5 +1,5 @@
 # Gua - a messenger chat bot
-Gua is a messenger chat bot that retrieves my emails and sends it to me on messenger. (Code Only)
+Gua is a messenger chat bot that retrieves my emails from Google Classroom and sends it to me on messenger. (Code Only)
 
 The primary reason for its creation is so that I can view my emails via messenger. 
 The problem was that our wifi was continuously dying and I can barely access anything using my mobile data except messenger.
